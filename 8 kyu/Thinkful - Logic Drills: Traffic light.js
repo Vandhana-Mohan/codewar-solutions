@@ -34,4 +34,4 @@
     red: 'green',
  })[current]
 
- // Best Wishes..
+ // Best Wishes...
